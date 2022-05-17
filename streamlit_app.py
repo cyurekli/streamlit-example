@@ -1,4 +1,5 @@
 import numpy as np
+import seaborn as sns
 import streamlit as st
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.tree import export_graphviz
